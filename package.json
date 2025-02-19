@@ -2,7 +2,7 @@
   "name": "steps",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/cgutierrez5000/Steps",
+  "homepage": "https://cgutierrez5000.github.io/Steps",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.3.1",
